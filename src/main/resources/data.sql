@@ -1,0 +1,1 @@
+insert into users values(0, 'admin','password','y2kmcmanohar@gmail.com','9611911334');
